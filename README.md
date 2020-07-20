@@ -34,7 +34,7 @@ python manage.py runserver
 
 ## Database Design
 
-![alt text](db_design)
+![alt text](db_design.jpg)
 
 ## Features implemented
 
